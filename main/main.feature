@@ -7,3 +7,4 @@ Feature: auto Searcher
         When Open Google page
         Then Search about toy
         And close web page
+        

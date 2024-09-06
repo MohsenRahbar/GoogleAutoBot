@@ -65,7 +65,7 @@ pyhton main.py
 
 you need to install these packags
 
-Requirements:
+Requirements :
 ```bash
 pip install -r requirements.txt
 ```
